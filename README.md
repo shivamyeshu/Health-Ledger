@@ -1,6 +1,5 @@
 # Health-Ledger
 
-![image](https://github.com/user-attachments/assets/cb32adb1-b366-49ff-9ee9-05fb2e84228d)
 ![image](https://github.com/user-attachments/assets/267f3aef-84da-4846-bd23-2681fe54819e)
 ![image](https://github.com/user-attachments/assets/9dfb78d6-04ea-460b-aaca-385a2db1fdc1)
 
